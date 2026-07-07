@@ -1,0 +1,10 @@
+obj/
+bin/
+*.o
+*.d
+*.swp
+*.user
+*.autosave
+mocs_compilation.cpp
+
+files/
